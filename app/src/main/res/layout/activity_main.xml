@@ -13,8 +13,8 @@
         android:layout_height="wrap_content"
         android:text="Hello World!"
         android:textSize="14sp"
-        tools:layout_editor_absoluteX="97dp"
-        tools:layout_editor_absoluteY="153dp" />
+        tools:layout_editor_absoluteX="92dp"
+        tools:layout_editor_absoluteY="121dp" />
 
     <TextView
         android:id="@+id/textView"
@@ -38,7 +38,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        app:layout_constraintGuide_begin="72dp" />
+        app:layout_constraintGuide_begin="76dp" />
 
     <TextView
         android:id="@+id/textView5"
